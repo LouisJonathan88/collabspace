@@ -18,9 +18,8 @@ CollabSpace adalah aplikasi web kolaborasi tim secara *real-time* — menggabung
 - **Backend/Database:** Firebase (Firestore, Auth, Realtime Database untuk presence)
 - **Drag & Drop:** dnd-kit / @hello-pangea/dnd
 - **Rich Text Editor:** Tiptap
-- **Export:** html2pdf.js, html-docx-js
-- **Routing:** React Router v7
-- **Deployment:** Vercel
+- **Export:** html2pdf.js
+- **Routing:** React Router
 
 ## Menjalankan
 
