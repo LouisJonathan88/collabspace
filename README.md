@@ -2,7 +2,7 @@
 
 CollabSpace adalah aplikasi web kolaborasi tim secara *real-time* — menggabungkan **Kanban board**, **dokumen kolaboratif**, dan **live chat** dalam satu workspace. Dibangun sebagai tugas kelompok mata kuliah *Cloud Computing*.
 
-## Fitur
+## Fitur 
 
 - **Role-based access control** — Owner, Editor, dan Viewer dengan hak akses berbeda per project
 - **Kanban board** — drag-and-drop task antar kolom (To Do, Doing, Done), real-time sync antar anggota
